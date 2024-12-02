@@ -4,7 +4,7 @@
 - Luca Pagano
 - Giuseppe Vitello
 # First Homework
-This repository contains the implementation and experimentation details of the Blood Cell Classification project, a task designed as part of the Artificial Neural Networks and Deep Learning course at Politecnico di Milano. The goal is to classify 96x96 RGB images of blood cells into eight categories, each representing a specific cell type, utilizing advanced augmentation techniques and deep learning models.
+This repository contains the implementation and experimentation details of the Blood Cell Classification project, a task designed as part of the Artificial Neural Networks and Deep Learning course at Politecnico di Milano. The goal is to classify 96x96 RGB images of blood cells into eight categories, each representing a specific cell type, utilizing advanced augmentation techniques and deep learning models. To further 
 
 ## Features
 - **Dataset Preprocessing:**
@@ -22,5 +22,9 @@ This repository contains the implementation and experimentation details of the B
   - Class balancing with SMOTE (Synthetic Minority Over-sampling TEchnique).
   - Optimizers such as AdamW and experiments with alternatives like Lion and Ranger.
   - Incorporation of segmentation techniques for feature isolation.
+## More Information
+
+For a detailed overview of the challenge, methods, and models built, please refer to the [report](Homework 1 Report.pdf) and the [notebooks](/Homework 1 Notebooks).
+
 ## Results:
 Achieved a final test accuracy of 92% using an ensemble of EfficientNetV2S models with optimized augmentation and hyperparameters.
