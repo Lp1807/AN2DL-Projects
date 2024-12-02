@@ -4,7 +4,7 @@
 - Luca Pagano
 - Giuseppe Vitello
 # First Homework
-This repository contains the implementation and experimentation details of the Blood Cell Classification project, a task designed as part of the Artificial Neural Networks and Deep Learning course at Politecnico di Milano. The goal is to classify 96x96 RGB images of blood cells into eight categories, each representing a specific cell type, utilizing advanced augmentation techniques and deep learning models. To further 
+This repository contains the implementation and experimentation details of the Blood Cell Classification project, a task designed as part of the Artificial Neural Networks and Deep Learning course at Politecnico di Milano. The goal is to classify 96x96 RGB images of blood cells into eight categories, each representing a specific cell type, utilizing advanced augmentation techniques and deep learning models.
 
 ## Features
 - **Dataset Preprocessing:**
