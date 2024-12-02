@@ -1,4 +1,5 @@
-# ANN2DL Projects
+# Artificial Neural Network and Deep Learning Projects
+Our "Alpaca" team was composed by:
 - Ernesto Natuzzi
 - Flavia Nicotri
 - Luca Pagano
