@@ -24,7 +24,7 @@ This repository contains the implementation and experimentation details of the B
   - Incorporation of segmentation techniques for feature isolation.
 ## More Information
 
-For a detailed overview of the challenge, methods, and models built, please refer to the [report](Homework 1 Report.pdf) and the [notebooks](/Homework 1 Notebooks).
+For a detailed overview of the challenge, methods, and models built, please refer to the [report](Homework_1_Report.pdf) and the [notebooks](/Homework_1_Notebooks).
 
 ## Results:
 Achieved a final test accuracy of 92% using an ensemble of EfficientNetV2S models with optimized augmentation and hyperparameters.
