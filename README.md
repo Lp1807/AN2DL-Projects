@@ -5,10 +5,13 @@ Our "Alpaca" team was composed by:
 - Flavia Nicotri
 - Luca Pagano
 - Giuseppe Vitello
+  
+<img src="https://github.com/user-attachments/assets/8a6e3515-e375-4f12-8cc9-366b46f928f8" width="250">
 
 # First Homework
 
 This repository contains the implementation and experimentation details of the Blood Cell Classification project, a task designed as part of the Artificial Neural Networks and Deep Learning course at Politecnico di Milano. The goal is to classify 96x96 RGB images of blood cells into eight categories, each representing a specific cell type, utilizing advanced augmentation techniques and deep learning models.
+<img width="1049" alt=" bloodcells_classification" src="https://github.com/user-attachments/assets/c5b0c58b-46ae-4b6e-b6fe-68e74965ca5a" />
 
 ## Features
 
@@ -38,6 +41,7 @@ For a detailed overview of the challenge, methods, and models built, please refe
 # Second Homework
 
 This repository contains the implementation and experimentation details of the Mars Terrain Segmentation project, a task designed as part of the Artificial Neural Networks and Deep Learning course at Politecnico di Milano. The objective is to segment 64x128 grayscale images of the Martian surface into pixel-wise masks with five categories: background, soil, bedrock, sand, and bigrock.
+<img width="640" alt="Screenshot_2025_02_23_alle_174407_w_trans" src="https://github.com/user-attachments/assets/5500b508-3573-4870-940e-3a1b95a407e2" />
 
 ## Features
 
