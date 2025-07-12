@@ -1,10 +1,10 @@
 # Artificial Neural Network and Deep Learning Projects
 
 Our "Alpaca" team was composed by:
-- Ernesto Natuzzi
-- Flavia Nicotri
-- Luca Pagano
-- Giuseppe Vitello
+- [Ernesto Natuzzi] (https://github.com/Ernesto1717)
+- [Flavia Nicotri] (https://github.com/flanico)
+- [Luca Pagano] (https://github.com/Lp1807)
+- [Giuseppe Vitello] (https://github.com/Peppisparrow)
   
 <img src="https://github.com/user-attachments/assets/8a6e3515-e375-4f12-8cc9-366b46f928f8" width="250">
 
